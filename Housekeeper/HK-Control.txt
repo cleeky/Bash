@@ -1,0 +1,1 @@
+A|path1|file1|days|path2|file2|LogPathNFile
